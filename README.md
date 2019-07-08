@@ -2,4 +2,4 @@
  Minecraft: Bedrock Edition Query for servers written in Java
 
 # H1 Android version
-[text](https://www.google.com "Go to the android version of this project").
+[Go](https://github.com/sero583/MCBedrockQuery-Android/) to the android version of this project. 
