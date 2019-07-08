@@ -1,2 +1,2 @@
 # MCBedrockQuery
- Minecraft Bedrock Query written in Java
+ Minecraft: Bedrock Edition Query for servers written in Java
